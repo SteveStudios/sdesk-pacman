@@ -1,1 +1,1 @@
-repo-add sdesk.db.tar.gz *.pkg.tar.xz
+repo-add sdesk.db.tar.gz *.tar.zst
