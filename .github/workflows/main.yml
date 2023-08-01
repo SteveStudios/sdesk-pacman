@@ -1,0 +1,20 @@
+name: sync
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+    
+  workflow_dispatch:
+  
+jobs:
+  sync_pkgs:
+    runs-on: ubuntu-latest
+    
+    steps:
+    	- uses: actions/checkout@v2
+    	
+    	- name: init_sync
+    	run: | 
+    	  sudo ./x86_64/sync.sh
