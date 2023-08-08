@@ -4,5 +4,8 @@
 ## Contributing
 ### Contributing is as easy as One, Two, Three!
 1. Add your package to the [x86_64](https://github.com/SteveStudios/sdesk-pacman/tree/main/x86_64) directory
-2. Run `sudo ./sync.sh`
+2. Run
+```
+sudo ./sync.sh
+```
 3. Make a pull request
