@@ -1,4 +1,4 @@
-![Pacman](https://github.com/SteveStudios/sdesk-pacman/assets/90519370/417c6b1d-1842-4f67-9aa4-b51cfee8690d)
+![Pacman](https://github.com/SteveStudios/sdesk-pacman/assets/90519370/da6c4863-a7fd-4496-b7df-dc959b0c4f1c)
 # This is the SDesk Pacman repository included with your system, It is meant to make packages not included with a vanilla Arch Linux installation easier to get your hands on.
 
 ## Contributing
