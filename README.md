@@ -4,7 +4,7 @@
 ## Contributing
 ### Contributing is as easy as One, Two, Three!
 1. Add your package to the [x86_64](https://github.com/SteveStudios/sdesk-pacman/tree/main/x86_64) directory
-2. Run the following command:
+2. Run the following commands:
 ```
 cd ./x86_64/
 sudo bash ./sync.sh
