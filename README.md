@@ -6,6 +6,7 @@
 1. Add your package to the [x86_64](https://github.com/SteveStudios/sdesk-pacman/tree/main/x86_64) directory
 2. Run the following command:
 ```
-sudo ./x86_64/sync.sh
+cd ./x86_64/
+sudo bash ./sync.sh
 ```
 3. Make a pull request!
