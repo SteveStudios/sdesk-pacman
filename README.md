@@ -7,6 +7,6 @@
 2. Run the following commands:
 ```
 cd ./x86_64/
-sudo bash ./sync.sh
+sudo./sync.sh
 ```
 3. Make a pull request!
